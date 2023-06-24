@@ -6,7 +6,7 @@ def passgen(length):
     
     password = str()
 
-    # 16 kere kod dondurme
+    
     for i in range(length + 1):
 
         # password degiskenine yeni karakter ekleyip password degiskenine tekrar ata
@@ -14,7 +14,7 @@ def passgen(length):
         # password = password + charset[random.randint(0, len(charset) - 1)] 
         password += charset[random.randint(0, len(charset) - 1)]
 
-    # password degiskenini passgen fonksiyonunun degeri haline getir (dondur) 
+    # password degiskenini passgen fonksiyonunun degeri haline getir
     return password
 
 print(passgen(20))
