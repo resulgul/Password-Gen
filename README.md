@@ -1,6 +1,6 @@
 ## Random Password Generator
 
-Bu basit Python programı, rastgele bir şifre oluşturmak için kullanılabilir. Program, belirtilen uzunlukta bir şifre oluşturur ve farklı karakter türlerini kullanır.
+Bu  program, rastgele bir şifre oluşturmak için kullanılabilir. Program, belirtilen uzunlukta bir şifre oluşturur ve farklı karakter türlerini kullanır.
 
 ## Kullanım
 
